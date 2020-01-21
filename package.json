@@ -5,8 +5,8 @@
   "scripts": {
     "build": "tsc --build packages/*",
     "build:tslint-rules": "tsc --build packages/tslint-rules",
-    "clean": "rimraf packages/*/dist packages/*/tsconfig.tsbuildinfo",
-    "clean:tslint-rules": "rimraf packages/tslint-rules/dist packages/tslint-rules/tsconfig.tsbuildinfo",
+    "clean": "rimraf 'packages/*/{,!(node_modules)/**/}{*.d.ts,*.js,*.js.map}' packages/*/tsconfig.tsbuildinfo",
+    "clean:tslint-rules": "rimraf 'packages/tslint-rules/{,!(node_modules)/**/}{*.d.ts,*.js,*.js.map}' packages/tslint-rules/tsconfig.tsbuildinfo",
     "lerna:bootstrap": "lerna bootstrap",
     "prepare": "npm-run-all lerna:bootstrap clean build",
     "test": "npm-run-all test:tslint-rules",
