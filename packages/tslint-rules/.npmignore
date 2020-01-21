@@ -1,7 +1,9 @@
 /node_modules/
 /.npmignore
 
-/dist/
-/src/
+/**/*.d.ts
+/**/*.js
+/**/*.js.map
+/**/*.ts
 /tsconfig.json
 /tsconfig.tsbuildinfo
