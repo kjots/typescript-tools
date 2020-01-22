@@ -1,6 +1,6 @@
 {
   "name": "@kjots/typescript-utils",
-  "version": "0.0.0",
+  "version": "1.6.0",
   "description": "TypeScript utilities",
   "main": "index.js",
   "types": "index.d.ts",
