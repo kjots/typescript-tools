@@ -16,7 +16,7 @@
     "test:tslint-rules:lint": "tslint --project packages/tslint-rules",
     "test:typescript-utils": "npm-run-all test:typescript-utils:lint test:typescript-utils:mocha",
     "test:typescript-utils:lint": "tslint --project packages/typescript-utils",
-    "test:typescript-utils:mocha": "mocha --require ts-node/register packages/typescript-utils/**/*.spec.ts"
+    "test:typescript-utils:mocha": "mocha --require ts-node/register 'packages/typescript-utils/{,!(node_modules)/**/}*.spec.ts'"
   },
   "repository": {
     "type": "git",
