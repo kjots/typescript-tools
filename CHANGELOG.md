@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.3](https://github.com/kjots/typescript-tools/compare/v1.6.2...v1.6.3) (2020-02-12)
+
+**Note:** Version bump only for package @kjots/typescript-tools
+
+
+
+
+
 ## [1.6.2](https://github.com/kjots/typescript-tools/compare/v1.6.1...v1.6.2) (2020-02-11)
 
 **Note:** Version bump only for package @kjots/typescript-tools
