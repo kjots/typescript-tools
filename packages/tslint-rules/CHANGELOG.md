@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/kjots/typescript-tools/compare/v1.6.3...v1.7.0) (2020-04-02)
+
+
+### Features
+
+* **tslint-rules:** update to use `tslint` version `6.1.0` ([938530c](https://github.com/kjots/typescript-tools/commit/938530c8ad643e43350b5949864097ec46d311fa))
+
+
+
+
+
 ## [1.6.3](https://github.com/kjots/typescript-tools/compare/v1.6.2...v1.6.3) (2020-02-12)
 
 **Note:** Version bump only for package @kjots/tslint-rules

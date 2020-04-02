@@ -1,6 +1,6 @@
 {
   "name": "@kjots/tslint-rules",
-  "version": "1.6.3",
+  "version": "1.7.0",
   "description": "TSLint rules for @kjots packages",
   "main": "tslint.json",
   "repository": {
