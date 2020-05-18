@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/kjots/typescript-tools/compare/v1.7.0...v1.8.0) (2020-05-18)
+
+
+### Features
+
+* **typescript-utils:** update to use `typescript` version `3.9.2` ([c5a2ed1](https://github.com/kjots/typescript-tools/commit/c5a2ed191ffcbef2a1589467335cc414d1bcc975))
+
+
+
+
+
 # [1.7.0](https://github.com/kjots/typescript-tools/compare/v1.6.3...v1.7.0) (2020-04-02)
 
 
