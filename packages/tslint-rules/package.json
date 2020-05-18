@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/kjots/typescript-tools/tree/master/packages/tslint-rules#readme",
   "peerDependencies": {
-    "tslint": "^6.1.0"
+    "tslint": "^6.1.2"
   },
   "publishConfig": {
     "access": "public"
