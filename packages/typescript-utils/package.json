@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/kjots/typescript-tools/tree/master/packages/typescript-utils#readme",
   "peerDependencies": {
-    "typescript": "^3.9.2"
+    "typescript": "^3.9.6"
   },
   "publishConfig": {
     "access": "public"
