@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.8.2](https://github.com/kjots/typescript-tools/compare/v1.8.1...v1.8.2) (2020-07-13)
+
+
+### Bug Fixes
+
+* **tslint-rules:** update to not include `.iml` files in published package ([136d1dc](https://github.com/kjots/typescript-tools/commit/136d1dcb3e6760e6011a340c218130a7a3a01a69))
+* **typescript-utils:** update to not include `.iml` files in published package ([0ef569d](https://github.com/kjots/typescript-tools/commit/0ef569dcb5bbbd3f670337fe069786ebef6f3cca))
+
+
+
+
+
 ## [1.8.1](https://github.com/kjots/typescript-tools/compare/v1.8.0...v1.8.1) (2020-07-08)
 
 **Note:** Version bump only for package @kjots/typescript-tools
